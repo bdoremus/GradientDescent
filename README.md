@@ -5,7 +5,7 @@ The following program was an exercise in writing a Gradient Descent and Stochast
 Understand the nuances of popular Gradient Descent algorithms, the advantages and disadvantages of each algorithm, and when it is appropriate to use each model.
 
 # Process
-1. Outside of this code, create a simple test case and solved by hand.  
+1. Create a simple test case and solved by hand.  
 Use those results to create unit tests for logistic_regression_functions.py.
 
 1. Generate a random classification problem with two features.  
