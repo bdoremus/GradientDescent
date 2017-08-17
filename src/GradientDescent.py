@@ -3,7 +3,7 @@ import unittest
 
 
 class GradientDescent(object):
-    """Preform the gradient descent optimization algorithm for an arbitrary
+    """Perform the gradient descent optimization algorithm for an arbitrary
     cost function.
     """
 
